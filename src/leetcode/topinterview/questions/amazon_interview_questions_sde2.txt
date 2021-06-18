@@ -1,0 +1,139 @@
+Problem	Year	Position	Platform	Location
+Amazon Fresh Promotion	2020	Experienced	SHL/HackerRank	USA
+Amazon Music Pairs	2020	Experienced	HackerRank	USA
+Items in Containers	2020	Experienced	SHL/HackerRank	USA
+Largest Item Association	2020	Experienced	SHL	USA
+Turnstile	2020	Experienced	SHL/HackerRank	USA
+Five Star Sellers	2020	Experienced	HackerRank	USA
+Beta Testing	2020	Experienced	HackerRank	USA
+Utilization Checks	2020	Experienced	HackerRank	USA/India
+Top K Frequently Mentioned Keywords	2020	Experienced	SHL	USA
+Transaction Logs	2020	Experienced	HackerRank	USA
+Substrings of Size K with K-1 Distinct Chars	2020	Experienced	SHL/HackerRank	USA
+Number of Islands	2020	Experienced	SHL/HackerRank	USA
+Most Common Word	2020	Experienced	SHL/HackerRank	USA
+Distance Between Nodes in BST	2020	Experienced	SHL	USA/UK
+Robotics Challenge 🆕	2020	Experienced	SHL	USA/UK
+K Closest Points to Origin	2020	Experienced	SHL	USA
+Shopping Patterns	2020	Experienced	SHL/HackerRank	USA
+Gifting Groups	2020	Experienced	HackerRank	USA/India
+Cut off Rank	2020	New Grad/Intern	SHL	USA
+Fill The Truck	2020	New Grad	SHL	USA
+Disk Space Analysis	2020	New Grad	SHL	USA
+Nearest City	2020	New Grad	SHL	USA
+Subtree with Maximum Average	2020	New Grad	SHL	USA
+Break a Palindrome	2020	New Grad	SHL	USA
+Smallest Negative Balance	2020	New Grad	SHL	USA
+Find The Highest Profit	2020	New Grad	SHL	USA
+Ways to Split String Into Prime Numbers	2020	New Grad	SHL	USA
+Fetch Items to Display	2020	New Grad	SHL	USA
+Packaging Automation	2020	New Grad	SHL	USA
+Min Distance Between Robots 🆕	2020	New Grad	SHL	USA
+Power Grid 🆕	2020	New Grad	SHL	USA
+Count Teams	2020	New Grad	SHL	USA
+Copy List with Random Pointer	2020	New Grad	SHL	Europe
+LRU Cache Misses	2020	Intern	SHL	USA
+Earliest Time to Complete Deliveries	2020	Intern	SHL	USA
+Chemical Delivery System	2020	Intern	SHL	USA
+Labeling System	2020	Intern	SHL	USA
+Merge Two Sorted Lists	2020	Intern	SHL	USA
+Maximal Square	2020	Intern	SHL	USA
+Throttling Gateway 🆕	2020	Intern	HackerRank/SHL	USA
+Unique Device Names	2020	Intern	SHL	USA
+Divisibility of Strings 🆕	2020	Intern	SHL	USA
+Multiprocessor System 🆕	2020	Intern	SHL	USA
+Winning Sequence 🆕	2020	Intern	SHL	USA
+Slowest Key Press 🆕	2020	Intern	SHL	USA
+Two Sum - Unique Pairs	2020	Intern	SHL	USA
+Keyword Suggestions	2020	Intern	SHL	USA
+-------------------------------------------FROM GEEKSFORGEEKS---------------------------------------------
+K largest elements from a big file or array.
+Find a triplet a, b, c such that a2 = b2 + c2. Variations of this problem like find a triplet with sum equal to 0. Find a pair with given sum. All such questions are efficiently solved using hashing. – Practice here
+Binary tree traversal questions like left view, right view, top view, bottom view, maximum of a level, minimum of a level, children sum property, diameter etc.
+Convert a Binary tree to DLL – Practice here
+Lowest Common ancestor in a Binary Search Tree and Binary Tree.
+Implement a stack with push(), pop() and min() in O(1) time.
+Reverse a linked list in groups of size k – Practice here
+Given two numbers represented by two linked lists, write a function that returns sum list – Practice here
+Rotate a matrix by 90 degree.
+Stock span problem
+Next greater element
+Some Dynamic Programming problems like:
+Maximum sum subarray such that no elements are consecutive – Practice here
+Edit distance
+Assembly line scheduling
+Why Amazon?
+Questions about projects done in previous company or final year.
+
+
+
+
+
+
+Level – Easy 
+ 
+
+Get minimum element from stack – Practice here
+Serialize and deserialize a binary tree – Practice here
+Print a binary tree in a vertical order – Practice here
+Celebrity problem – Practice here
+Level order traversal
+Swap the kth element from starting and from the end position – Practice here
+Binary tree to bst – Practice here
+Max sum in the configuration – Practice here
+Find the nth element of spiral matrix – Practice here
+Count the number of occurrences in a sorted array
+Find the smallest window in a string containing all characters of another string
+Find the maximum of all subarrays of size k
+Find the kth smallest element in row wise and column wise sorted matrix
+Minimum swaps required to arrange pairs
+There is an array of N numbers ranging from 1 to N. Only 1 number is missing, return the index of that number
+Find the second largest and second smallest in a given array in single traversal.
+Find power(x,y) without using pow function.(divide and conquer approach required)
+Count possible decoding sequence
+Level – Medium 
+ 
+
+Given two string print them inter leaving strings characters
+Minimum cost required to travel from top left to the bottom right in a matrix
+Maximum difference between node and its ancestors – Practice here
+Min distance between two given nodes of a binary tree – Practice here
+Find the number of island – Practice here
+Topological Sort – Practice here
+Detect cycle in a directed graph – Practice here
+Flattening a link list – Practice here
+Detect a loop in a linked list – Practice here
+Check if a binary tree is BST or not
+Min Cost path
+Count ways to reach nth stair
+Maximum Subarray Problem
+Palindrome Partitioning
+Given a binary tree find the minimum root to leaf height.
+Implement LRU cache
+Level – Hard 
+ 
+
+Boolean paranthesis – Practice here
+Maximum Index – Practice here
+Largest Number formed in the array – Practice here
+Find the length of maximum numbers of consecutive numbers jumped up in an array
+Delete the elements in a linklist whose sum is equal to zero
+Given a list of numbers of odd length design an algorithm to remove a number and divide the rest numbers equaly so as it makes there sum same
+Find diameter of a binary tree
+
+
+
+
+
+
+
+https://www.geeksforgeeks.org/amazon-interview-experience-set-243-2-5-years-experience/
+https://www.geeksforgeeks.org/amazon-interview-experience-set-334-4-5-years-experienced/?ref=rp
+https://www.geeksforgeeks.org/amazon-interview-experience-set-340-3-5-years-experienced-sde-1/?ref=rp
+https://www.geeksforgeeks.org/amazon-interview-experience-for-sde-2-3-years-experienced/?ref=rp
+
+
+https://www.interviewbit.com/problems/pascal-triangle/
+
+
+
